@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**hmoumad/hmoumad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Hamza
+#### Future engineer in Data Science 
+![Future engineer in Data Science ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+Graduated from the Polydisciplinary Faculty of Beni Mellal. Currently, I am pursuing my second-year master's studies at INSEA in Rabat, specializing in the fields of Data Science, Machine Learning, and Deep Learning throughout my academic career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
