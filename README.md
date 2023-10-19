@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hamza
 ## Future engineer in Data Science
-![Future engineer in Data Science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Future engineer in Data Science]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/D4D16AQEwdI_2Tz6seA/profile-displaybackgroundimage-shrink_350_1400/0/1679004767911?e=1703116800&v=beta&t=Ef2ZFMDCWq7yyz6S8-pVc5KeDUzyDz8tLu9lNW5IMvg))
 
 Graduated from the Polydisciplinary Faculty of Beni Mellal. Currently, I am pursuing my second-year master's studies at INSEA in Rabat, specializing in the fields of Data Science, Machine Learning, and Deep Learning throughout my academic career.
 
